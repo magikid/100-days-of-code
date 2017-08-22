@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: 22 Aug 2017
+
+**Today's Progress**: Worked on getting the deployment to work with capistrano.
+
+**Thoughts**: Something about NFSN really doesn't like it.  It was like pulling teeth and I've
+just run out of time to play with it.  Devops is hard.
+
+**Link to work:**
+[Github Commit](://github.com/magikid/shortener/commit/e16bf6ca20fc9ccf881f845000f557bf8079acc4)
+
 ### Day 2: 21 Aug 2017
 
 **Today's Progress**: Added authorization to shortener site.  Now unauth'd
