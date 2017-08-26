@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: 23 Aug 2017
+
+**Today's Progress**: Got my shortener to deploy!
+
+**Thoughts**: It would have been nice if there were an up-to-date walk through
+of deploying a rails application with capistrano.
+
+**Link to work:**
+[Github Commit](https://github.com/magikid/shortener/commit/f2861df8019f5289d0205e9b1d9864dd071c6e17)
+
 ### Day 3: 22 Aug 2017
 
 **Today's Progress**: Worked on getting the deployment to work with capistrano.
