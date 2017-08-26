@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 5: 26 Aug 2017
+
+**Today's Progress**: Found show-stopping bug in shortener
+
+**Thoughts**:  It turns out that if you misspell a constraint in SQLite, it
+won't let you add any other records because the constraint automatically fails.
+I spent most of today fixing that and writing a regression test.
+
+Also the astute observer will note that I skipped two days.  I don't plan to
+make a habit of this but Thursday was my wife's birthday and I couldn't find an
+hour to program.  I got very little sleep Thursday night due to some unforseen
+circumstances.  Friday I could barely make it through work much less write
+functioning code.  I don't write this as an excuse, just an explanation for
+future Chris.
+
+**Link to work:**
+[Github Commit](https://github.com/magikid/shortener/commit/8ec47a9e07e05e03a9b82524ddfa55c14375f8d0)
+
 ### Day 4: 23 Aug 2017
 
 **Today's Progress**: Got my shortener to deploy!
